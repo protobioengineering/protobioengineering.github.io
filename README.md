@@ -1,3 +1,3 @@
 # Proto Bioengineering Homepage
 
-Powered by GitHub pages.
+Powered by GitHub Pages.
